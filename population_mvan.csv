@@ -1,0 +1,225 @@
+Census_Subdivision,Age_Group,Year,Count
+Bowen Island ,0 to 14,2016,640
+Bowen Island ,15 to 24,2016,290
+Bowen Island ,25 to 34,2016,240
+Bowen Island ,35 to 44,2016,445
+Bowen Island ,45 to 54,2016,595
+Bowen Island ,55 to 64,2016,700
+Bowen Island ,65+,2016,825
+Burnaby ,0 to 14,2016,31080
+Burnaby ,15 to 24,2016,31435
+Burnaby ,25 to 34,2016,37075
+Burnaby ,35 to 44,2016,31455
+Burnaby ,45 to 54,2016,34505
+Burnaby ,55 to 64,2016,30345
+Burnaby ,65+,2016,78845
+Coquitlam,0 to 14,2016,22220
+Coquitlam,15 to 24,2016,18785
+Coquitlam,25 to 34,2016,17560
+Coquitlam,35 to 44,2016,18840
+Coquitlam,45 to 54,2016,23010
+Coquitlam,55 to 64,2016,19475
+Coquitlam,65+,2016,40970
+Delta,0 to 14,2016,16385
+Delta,15 to 24,2016,13510
+Delta,25 to 34,2016,9845
+Delta,35 to 44,2016,12195
+Delta,45 to 54,2016,15925
+Delta,55 to 64,2016,15220
+Delta,65+,2016,40620
+Langley,0 to 14,2016,3915
+Langley,15 to 24,2016,2770
+Langley,25 to 34,2016,3740
+Langley,35 to 44,2016,3450
+Langley,45 to 54,2016,3555
+Langley,55 to 64,2016,3510
+Langley,65+,2016,10760
+New Westminster,0 to 14,2016,8825
+New Westminster,15 to 24,2016,7725
+New Westminster,25 to 34,2016,12055
+New Westminster,35 to 44,2016,10330
+New Westminster,45 to 54,2016,11325
+New Westminster,55 to 64,2016,9915
+New Westminster,65+,2016,23160
+North Vancouver,0 to 14,2016,7085
+North Vancouver,15 to 24,2016,5465
+North Vancouver,25 to 34,2016,8230
+North Vancouver,35 to 44,2016,7945
+North Vancouver,45 to 54,2016,8205
+North Vancouver,55 to 64,2016,7450
+North Vancouver,65+,2016,18180
+Pitt Meadows,0 to 14,2016,3170
+Pitt Meadows,15 to 24,2016,2060
+Pitt Meadows,25 to 34,2016,2215
+Pitt Meadows,35 to 44,2016,2505
+Pitt Meadows,45 to 54,2016,2955
+Pitt Meadows,55 to 64,2016,2730
+Pitt Meadows,65+,2016,6150
+Port Coquitlam,0 to 14,2016,9750
+Port Coquitlam,15 to 24,2016,7480
+Port Coquitlam,25 to 34,2016,7350
+Port Coquitlam,35 to 44,2016,8375
+Port Coquitlam,45 to 54,2016,9890
+Port Coquitlam,55 to 64,2016,8310
+Port Coquitlam,65+,2016,15745
+Port Moody,0 to 14,2016,6050
+Port Moody,15 to 24,2016,4000
+Port Moody,25 to 34,2016,3970
+Port Moody,35 to 44,2016,5240
+Port Moody,45 to 54,2016,5845
+Port Moody,55 to 64,2016,4370
+Port Moody,65+,2016,8490
+Richmond,0 to 14,2016,27240
+Richmond,15 to 24,2016,25325
+Richmond,25 to 34,2016,26590
+Richmond,35 to 44,2016,23940
+Richmond,45 to 54,2016,31590
+Richmond,55 to 64,2016,29980
+Richmond,65+,2016,71360
+Surrey,0 to 14,2016,92550
+Surrey,15 to 24,2016,69405
+Surrey,25 to 34,2016,70310
+Surrey,35 to 44,2016,72365
+Surrey,45 to 54,2016,75215
+Surrey,55 to 64,2016,65050
+Surrey,65+,2016,154425
+Vancouver,0 to 14,2016,70530
+Vancouver,15 to 24,2016,72420
+Vancouver,25 to 34,2016,125195
+Vancouver,35 to 44,2016,92805
+Vancouver,45 to 54,2016,93735
+Vancouver,55 to 64,2016,79250
+Vancouver,65+,2016,209350
+West Vancouver,0 to 14,2016,5875
+West Vancouver,15 to 24,2016,5305
+West Vancouver,25 to 34,2016,2490
+West Vancouver,35 to 44,2016,3845
+West Vancouver,45 to 54,2016,6800
+West Vancouver,55 to 64,2016,6330
+West Vancouver,65+,2016,25865
+White Rock,0 to 14,2016,1760
+White Rock,15 to 24,2016,1570
+White Rock,25 to 34,2016,1465
+White Rock,35 to 44,2016,1835
+White Rock,45 to 54,2016,2775
+White Rock,55 to 64,2016,3775
+White Rock,65+,2016,14765
+Tsawwassen Lands ,0 to 14,2016,80
+Tsawwassen Lands ,15 to 24,2016,70
+Tsawwassen Lands ,25 to 34,2016,75
+Tsawwassen Lands ,35 to 44,2016,80
+Tsawwassen Lands ,45 to 54,2016,100
+Tsawwassen Lands ,55 to 64,2016,180
+Tsawwassen Lands ,65+,2016,445
+Bowen Island ,0 to 14,2021,635
+Bowen Island ,15 to 24,2021,365
+Bowen Island ,25 to 34,2021,260
+Bowen Island ,35 to 44,2021,575
+Bowen Island ,45 to 54,2021,650
+Bowen Island ,55 to 64,2021,705
+Bowen Island ,65+,2021,2205
+Burnaby ,0 to 14,2021,32295
+Burnaby ,15 to 24,2021,28350
+Burnaby ,25 to 34,2021,43725
+Burnaby ,35 to 44,2021,35885
+Burnaby ,45 to 54,2021,31905
+Burnaby ,55 to 64,2021,32855
+Burnaby ,65+,2021,94700
+Coquitlam,0 to 14,2021,22400
+Coquitlam,15 to 24,2021,17870
+Coquitlam,25 to 34,2021,19960
+Coquitlam,35 to 44,2021,21085
+Coquitlam,45 to 54,2021,21910
+Coquitlam,55 to 64,2021,21135
+Coquitlam,65+,2021,51200
+Delta,0 to 14,2021,16425
+Delta,15 to 24,2021,14350
+Delta,25 to 34,2021,11780
+Delta,35 to 44,2021,13165
+Delta,45 to 54,2021,14700
+Delta,55 to 64,2021,15760
+Delta,65+,2021,47125
+Langley,0 to 14,2021,4420
+Langley,15 to 24,2021,2710
+Langley,25 to 34,2021,4530
+Langley,35 to 44,2021,4255
+Langley,45 to 54,2021,3450
+Langley,55 to 64,2021,3785
+Langley,65+,2021,12460
+New Westminster,0 to 14,2021,9925
+New Westminster,15 to 24,2021,7415
+New Westminster,25 to 34,2021,14465
+New Westminster,35 to 44,2021,12870
+New Westminster,45 to 54,2021,10735
+New Westminster,55 to 64,2021,10815
+New Westminster,65+,2021,26900
+North Vancouver,0 to 14,2021,7315
+North Vancouver,15 to 24,2021,5535
+North Vancouver,25 to 34,2021,9595
+North Vancouver,35 to 44,2021,9240
+North Vancouver,45 to 54,2021,8200
+North Vancouver,55 to 64,2021,8045
+North Vancouver,65+,2021,21695
+Pitt Meadows,0 to 14,2021,3270
+Pitt Meadows,15 to 24,2021,1875
+Pitt Meadows,25 to 34,2021,2210
+Pitt Meadows,35 to 44,2021,2695
+Pitt Meadows,45 to 54,2021,2615
+Pitt Meadows,55 to 64,2021,2990
+Pitt Meadows,65+,2021,7325
+Port Coquitlam,0 to 14,2021,9625
+Port Coquitlam,15 to 24,2021,7020
+Port Coquitlam,25 to 34,2021,8010
+Port Coquitlam,35 to 44,2021,9055
+Port Coquitlam,45 to 54,2021,8890
+Port Coquitlam,55 to 64,2021,9245
+Port Coquitlam,65+,2021,20425
+Port Moody,0 to 14,2021,5520
+Port Moody,15 to 24,2021,3800
+Port Moody,25 to 34,2021,4055
+Port Moody,35 to 44,2021,5035
+Port Moody,45 to 54,2021,5455
+Port Moody,55 to 64,2021,4835
+Port Moody,65+,2021,10100
+Richmond,0 to 14,2021,27935
+Richmond,15 to 24,2021,23400
+Richmond,25 to 34,2021,30575
+Richmond,35 to 44,2021,26770
+Richmond,45 to 54,2021,28015
+Richmond,55 to 64,2021,31335
+Richmond,65+,2021,88865
+Surrey,0 to 14,2021,94060
+Surrey,15 to 24,2021,80260
+Surrey,25 to 34,2021,82135
+Surrey,35 to 44,2021,80390
+Surrey,45 to 54,2021,74700
+Surrey,55 to 64,2021,69590
+Surrey,65+,2021,184285
+Vancouver,0 to 14,2021,70570
+Vancouver,15 to 24,2021,69605
+Vancouver,25 to 34,2021,136380
+Vancouver,35 to 44,2021,102405
+Vancouver,45 to 54,2021,86885
+Vancouver,55 to 64,2021,83680
+Vancouver,65+,2021,241140
+West Vancouver,0 to 14,2021,6160
+West Vancouver,15 to 24,2021,5245
+West Vancouver,25 to 34,2021,2825
+West Vancouver,35 to 44,2021,4340
+West Vancouver,45 to 54,2021,6490
+West Vancouver,55 to 64,2021,6500
+West Vancouver,65+,2021,27555
+White Rock,0 to 14,2021,1980
+White Rock,15 to 24,2021,1625
+White Rock,25 to 34,2021,1715
+White Rock,35 to 44,2021,1945
+White Rock,45 to 54,2021,2675
+White Rock,55 to 64,2021,3810
+White Rock,65+,2021,17800
+Tsawwassen Lands ,0 to 14,2021,330
+Tsawwassen Lands ,15 to 24,2021,200
+Tsawwassen Lands ,25 to 34,2021,340
+Tsawwassen Lands ,35 to 44,2021,320
+Tsawwassen Lands ,45 to 54,2021,300
+Tsawwassen Lands ,55 to 64,2021,350
+Tsawwassen Lands ,65+,2021,835
